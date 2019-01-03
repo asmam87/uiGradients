@@ -1339,7 +1339,12 @@
     },
     {
         "name": "Grade Grey",
-        "colors": ["#bdc3c7","#2c3e50"]
-    }   "name": asma malik
-        "colour": "#004162", "#AEDDI2"
+        "colors": ["#bdc3c7","#2c3e5"]
+    },
+{
+        "name": "asma malik",
+        "colour": ["#c192dd","#74ed5f"]
+    }
+      
+    
 ]     
